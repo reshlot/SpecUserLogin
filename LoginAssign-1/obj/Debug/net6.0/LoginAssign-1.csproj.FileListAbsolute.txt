@@ -1,0 +1,12 @@
+D:\Simplilearn\SpecFlow\Assignments\Assignment-1\LoginAssign-1\LoginAssign-1\bin\Debug\net6.0\LoginAssign-1.deps.json
+D:\Simplilearn\SpecFlow\Assignments\Assignment-1\LoginAssign-1\LoginAssign-1\bin\Debug\net6.0\LoginAssign-1.pdb
+D:\Simplilearn\SpecFlow\Assignments\Assignment-1\LoginAssign-1\LoginAssign-1\obj\Debug\net6.0\LoginAssign-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Simplilearn\SpecFlow\Assignments\Assignment-1\LoginAssign-1\LoginAssign-1\obj\Debug\net6.0\LoginAssign-1.AssemblyInfoInputs.cache
+D:\Simplilearn\SpecFlow\Assignments\Assignment-1\LoginAssign-1\LoginAssign-1\obj\Debug\net6.0\LoginAssign-1.AssemblyInfo.cs
+D:\Simplilearn\SpecFlow\Assignments\Assignment-1\LoginAssign-1\LoginAssign-1\obj\Debug\net6.0\LoginAssign-1.csproj.CoreCompileInputs.cache
+D:\Simplilearn\SpecFlow\Assignments\Assignment-1\LoginAssign-1\LoginAssign-1\obj\Debug\net6.0\LoginAssign-1.dll
+D:\Simplilearn\SpecFlow\Assignments\Assignment-1\LoginAssign-1\LoginAssign-1\obj\Debug\net6.0\refint\LoginAssign-1.dll
+D:\Simplilearn\SpecFlow\Assignments\Assignment-1\LoginAssign-1\LoginAssign-1\obj\Debug\net6.0\LoginAssign-1.pdb
+D:\Simplilearn\SpecFlow\Assignments\Assignment-1\LoginAssign-1\LoginAssign-1\obj\Debug\net6.0\ref\LoginAssign-1.dll
+D:\Simplilearn\SpecFlow\Assignments\Assignment-1\LoginAssign-1\LoginAssign-1\obj\Debug\net6.0\LoginAssign-1.csproj.AssemblyReference.cache
+D:\Simplilearn\SpecFlow\Assignments\Assignment-1\LoginAssign-1\LoginAssign-1\obj\Debug\net6.0\LoginAssign-1.csproj.CopyComplete
